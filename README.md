@@ -12,3 +12,4 @@ I don't really listen to music, but here are a few songs I like.
 [My Playlist](https://open.spotify.com/playlist/56yNmUhaXVi9z7yIgulqz9?si=6e268d641fa6415a)
 
 ## Image Collage
+![Here is a collage of a few things I like](meinmarkdown.png)
